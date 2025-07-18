@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Vinicius Brito</h1>
+<h1 align="left">👋 Olá! Eu sou Vinicius Brito</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Sou estudante e entusiasta de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto, em busca de oportunidades de estágio para aplicar e aprimorar minhas habilidades de programação. Estou comprometido em aprender e crescer profissionalmente, determinado a construir uma carreira sólida na área de desenvolvimento de sistemas.</p>
+<p align="left">Sou estudante e entusiasta de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto, em busca de oportunidades de estágio para aplicar e aprimorar minhas habilidades de programação. Estou comprometido em aprender e crescer profissionalmente, determinado a construir uma carreira sólida na área de desenvolvimento de sistemas.</p>
 
 ###
 
@@ -61,16 +61,14 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/n6vw4safqzsawvrtqyxyr5baa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n6vw4safqzsawvrtqyxyr5baa&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://www.linkedin.com/in/vinicius-brito-b46845334/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vinicius.br1to/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="euwayne_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
 
