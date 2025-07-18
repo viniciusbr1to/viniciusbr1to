@@ -1,4 +1,8 @@
-<h1 align="left">👋 Olá! Eu sou Vinicius Brito</h1>
+<h1 align="center">👋 Olá! Eu sou Vinicius Brito</h1>
+
+###
+
+<p align="center">Sou estudante e entusiasta de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto, em busca de oportunidades de estágio para aplicar e aprimorar minhas habilidades de programação. Estou comprometido em aprender e crescer profissionalmente, determinado a construir uma carreira sólida na área de desenvolvimento de sistemas.</p>
 
 ###
 
@@ -6,15 +10,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Sou estudante e entusiasta de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto, em busca de oportunidades de estágio para aplicar e aprimorar minhas habilidades de programação. Estou comprometido em aprender e crescer profissionalmente, determinado a construir uma carreira sólida na área de desenvolvimento de sistemas.</p>
-
-###
-
-<h2 align="left">Minhas habilidades</h2>
+<h2 align="left">💻 Minhas habilidades</h2>
 
 ###
 
@@ -58,7 +54,11 @@
 
 ###
 
-<h2 align="left">Contatos:</h2>
+<p align="left"></p>
+
+###
+
+<h2 align="left">🌐 Contatos</h2>
 
 ###
 
