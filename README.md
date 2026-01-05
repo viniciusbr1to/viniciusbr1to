@@ -1,4 +1,4 @@
-!(<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">)
+!(<img src="https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91" alt="Hello world">)
 
 
 ## About Me 👋
