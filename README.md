@@ -1,5 +1,3 @@
-![Demo](https://i.imgur.com/SEU_GIF.gif](https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91)
-
 ## About Me 👋
 Hello! My name is Vinicius, I'm 20 years old and I live in Ribeirão Preto, São Paulo. I work at BrasilCenter as a specialized service REP. I am a student of Systems Analysis and Development at Fatec.
 I am always looking to improve my knowledge and evolve professionally.
