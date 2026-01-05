@@ -11,7 +11,7 @@ Send me an email!
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_Bi-E3AE00?style=flat&logo=codeforces&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%340096.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%333399.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
