@@ -15,7 +15,7 @@ Send me an email!
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
- **Languages
+ **Languages**
 
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
