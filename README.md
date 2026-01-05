@@ -1,4 +1,5 @@
-!(<img src="https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91" alt="Hello world">)
+![Alt text]([https://your-direct-url.gif](https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91))
+
 
 
 ## About Me 👋
