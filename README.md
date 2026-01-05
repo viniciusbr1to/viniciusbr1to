@@ -20,7 +20,7 @@ Send me an email!
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-3670A0?style=flat&logo=python&logoColor=ffdd54)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23800080.svg?logo=cshrp&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-%23800080?style=flat&logo=unity&logoColor=white)
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
