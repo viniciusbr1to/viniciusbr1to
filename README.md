@@ -1,4 +1,4 @@
-![Alt text]([https://your-direct-url.gif](https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91))
+(https://your-direct-url.gif](https://imgur.com/gallery/dark-souls-3-wallpaper-gif-5wm91)
 
 
 
