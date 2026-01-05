@@ -19,7 +19,7 @@ Send me an email!
 
  ** Languages
 
-![C](https://img.shields.io/badge/%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 
  **Contact Me**
