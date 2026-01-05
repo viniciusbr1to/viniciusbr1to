@@ -5,8 +5,6 @@ Send me an email!
 
 ## My Skills
 
- **Applications**
-
  **Developer Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
