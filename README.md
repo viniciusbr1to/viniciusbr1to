@@ -22,7 +22,7 @@ Send me an email!
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 
  **Contact Me**
