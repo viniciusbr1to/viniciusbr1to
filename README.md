@@ -1,5 +1,7 @@
 ## Hi there 👋
-teste
+Hello! My name is Vinicius, I'm 20 years old and I live in Ribeirão Preto, São Paulo. I work at BrasilCenter as a specialized service REP. I am a student of Systems Analysis and Development at Fatec.
+I am always looking to improve my knowledge and evolve professionally.
+Send me an email!
 <!--
 **viniciusbr1to/viniciusbr1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
