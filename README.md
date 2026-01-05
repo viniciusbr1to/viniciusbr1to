@@ -10,7 +10,7 @@ Send me an email!
  **Developer Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual-Studio_Code-blue?logo=vscode)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=poiwerbi)
+![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat&logo=codeforces&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
