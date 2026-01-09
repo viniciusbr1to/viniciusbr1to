@@ -27,3 +27,9 @@ Send me an email!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-brito-b46845334/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.br1to/)
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n6vw4safqzsawvrtqyxyr5baa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=28d425&bar_color_cover=true">
+  </a>
+</p>
