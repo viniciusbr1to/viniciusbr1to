@@ -25,6 +25,9 @@ Send me an email!
 
  **Contact Me**
 
+
+##
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-brito-b46845334/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.br1to/)
 
