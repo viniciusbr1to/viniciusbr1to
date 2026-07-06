@@ -15,8 +15,10 @@
 <hr />
 
 ## About me
-My name is Vinicius Brito, I am 20 years old and I am a student of Systems Analysis and Development at FATEC Ribeirão Preto. I am a technician in Computer Maintenance and Support from ETEC, in addition to having completed other courses throughout my career.
-I am a proactive and persistent person, always seeking to improve my skills and acquire new knowledge. Currently, I am part of Brasil Center Comunicações, working as a Representative of Specialized Backoffice Services, where I develop operational activities, dealing with information analysis, process organization and support.
+Computer Science student pursuing a degree in Systems Analysis and Development at FATEC Ribeirão Preto and a Technical Diploma in Computer Maintenance and Support from ETEC.
+I am a proactive professional committed to continuous learning and constantly improving my technical skills. I have knowledge of software development using C, C++, Python, C#, .NET, PostgreSQL, and Flutter.
+Currently, I work at Brasil Center Comunicações as a Specialized Backoffice Services Representative, performing operational activities related to information analysis, process organization, and support.
+I am seeking opportunities to apply my technical knowledge, gain practical experience, and grow professionally in the Information Technology field.
 
 <hr />
 
