@@ -17,8 +17,6 @@
 ## About me
 Computer Science student pursuing a degree in Systems Analysis and Development at FATEC Ribeirão Preto and a Technical Diploma in Computer Maintenance and Support from ETEC.
 I am a proactive professional committed to continuous learning and constantly improving my technical skills. I have knowledge of software development using C, C++, Python, C#, .NET, PostgreSQL, and Flutter.
-Currently, I work at Brasil Center Comunicações as a Specialized Backoffice Services Representative, performing operational activities related to information analysis, process organization, and support.
-I am seeking opportunities to apply my technical knowledge, gain practical experience, and grow professionally in the Information Technology field.
 
 <hr />
 
