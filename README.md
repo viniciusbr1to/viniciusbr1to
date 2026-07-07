@@ -23,7 +23,7 @@ I am seeking opportunities to apply my technical knowledge, gain practical exper
 <hr />
 
 ## Skill set
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,vscode,flutter,dart,github,git,dotnet,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,dotnet,postgresql,flutter,dart,vscode,github,git)](https://skillicons.dev)
 
 <hr />
 
